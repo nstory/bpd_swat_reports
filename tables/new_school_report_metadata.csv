@@ -1,0 +1,65 @@
+subject_id,incident_number,Agency,Date,City,Inside City Limits,Call Out Time,Arrival Time,Type of Premises,Photos,Video,K-9 Unit Utilized,Date Terminated,Time Terminated,Officer Injured,Connect #,Agency Assist,Agency Assist Agency,URL
+48890281,14-25OCT29,Boston Police - SW,10/29/2014,DORCHESTER,NO,10:30 AM,10:30 AM,Restaurant,NO,NO,NO,10/29/2014,9:30 PM,NO,"",YES,USSS,https://wokewindows-data.s3.amazonaws.com/swats/14-25OCT29.pdf
+48890388,23-140309217,Boston Police - B2,9/16/2014,Roxbury,YES,6:00 PM,6:30 PM,Multiple family,YES,NO,NO,9/16/2014,9:30 PM,NO,"",YES,Boston Police - B2,https://wokewindows-data.s3.amazonaws.com/swats/23-140309217.pdf
+48915853,13-32OCT11,Boston Police - C1,10/11/13,DORCHESTER,YES,5:45 PM,5:50 PM,Single Family Residence,NO,NO,NO,10/11/2013,7:00 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-32OCT11.pdf
+48915841,13-21JUN28,Boston Police - B3,6/28/2013,Mattapan,YES,12:03 AM,12:10 AM,Apartment,NO,NO,NO,6/28/2013,1:15 AM,NO,13-0394536,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-21JUN28.pdf
+48915850,13-26AUG07,Boston Police - SW,8/7/2013,DORCHESTER,NO,1:45 PM,"",Outside,NO,NO,YES,8/7/2013,4:15 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-26AUG07.pdf
+48915838,12-19AUG16,Boston Police,8/16/2012,Mattapan,YES,3:30 AM,5:15 AM,Single Family Residence,YES,NO,YES,8/16/2020,5:30 AM,NO,12-120508878,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/12-19AUG16.pdf
+48915870,13-09APR18,Boston Police,4/18/13,South End,YES,6:00 AM,7:00 AM,High School,NO,NO,NO,4/18/2013,2:25 PM,NO,13-09APR18,YES,USSS,https://wokewindows-data.s3.amazonaws.com/swats/13-09APR18.pdf
+48915823,14-05FEB28,Boston Police,2/28/2014,Roxbury,NO,3:30 AM,4:40 AM,Apartment Complex,YES,NO,YES,2/28/2014,5:05 AM,NO,14-0123808,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-05FEB28.pdf
+48915851,14-18JUN10,BPD C6 DCU,6/10/2014,Hyde Park,YES,3:30 AM,4:53 AM,Apartment,YES,NO,NO,6/10/2014,5:10 AM,NO,14-0365514,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-18JUN10.pdf
+48915824,14-24OCT02,Boston Police - SW,10/2/2014,South End,NO,8:30 AM,11:00 AM,Restaurant,NO,NO,NO,10/2/2014,9:30 PM,NO,"",YES,USSS,https://wokewindows-data.s3.amazonaws.com/swats/14-24OCT02.pdf
+48915864,13-23JUL02,Boston Police - SW,7/2/2013,DORCHESTER,YES,3:30 AM,4:30 AM,Multiple family,YES,YES,YES,7/2/2013,6:00 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-23JUL02.pdf
+48915868,13-37DEC06,Boston Police - C1,12/6/2013,Roxbury,YES,3:30 AM,"",Single Family Residence,YES,NO,NO,12/6/2013,4:55 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-37DEC06.pdf
+48915842,13-04192013,Boston Police,4/19/2013,Watertown,NO,1:00 AM,1:15 AM,Street,NO,NO,YES,4/20/2013,10:40 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-04192013.pdf
+48915846,14-28NOV20,Boston Police - B2,11/20/2014,DORCHESTER,YES,3:30 AM,4:46 AM,Multiple family,NO,NO,NO,11/20/2014,5:10 AM,NO,14-2046981,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-28NOV20.pdf
+48915844,14-30DEC17,Boston Police - B2,12/17/2014,Roxbury,YES,2:20 PM,2:25 PM,Triple Decker,YES,NO,NO,12/17/2014,3:40 PM,NO,14-2058330,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-30DEC17.pdf
+48915835,14-17JUN06,Boston Police - SW,6/6/2014,DORCHESTER,YES,3:30 AM,4:40 AM,Duplex,YES,NO,YES,6/6/2014,5:00 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-17JUN06.pdf
+48915833,13-27AUG27,BPD B2 DCU,8/27/2013,Roxbury,YES,"","",Apartment Complex,YES,NO,YES,8/27/2013,4:40 AM,NO,"",YES,Braintree PD,https://wokewindows-data.s3.amazonaws.com/swats/13-27AUG27.pdf
+48915869,13-20JUNE22,USSS,6/22/2013,South Boston,YES,7:00 AM,8:30 AM,Office / Professional Building,NO,NO,NO,6/22/2013,5:30 PM,NO,"",YES,USSS,https://wokewindows-data.s3.amazonaws.com/swats/13-20JUNE22.pdf
+48915847,13-29SEP13,Boston Police - SW,9/13/2013,DORCHESTER,NO,3:30 AM,4:50 AM,Apartment Complex,NO,NO,YES,9/13/2013,5:30 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-29SEP13.pdf
+48915855,14-13MAY01,Boston Police - SW,5/1/2014,Brighton,YES,3:30 AM,6:00 AM,Apartment,NO,NO,YES,5/1/2014,6:30 AM,NO,"",YES,MSP,https://wokewindows-data.s3.amazonaws.com/swats/14-13MAY01.pdf
+48915858,14-15MAY23,Boston Police D-14,5/23/2014,Brighton,YES,4:00 AM,6:00 AM,BHA Apartment Complex,YES,NO,NO,5/23/14,6:20 AM,NO,14-0320571,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-15MAY23.pdf
+48915837,14-10MAR29,Boston Police - B2,3/29/2014,Roxbury,YES,5:00 PM,5:10 PM,Apartment Complex,YES,NO,NO,3/29/2014,6:06 PM,NO,14-0189989,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-10MAR29.pdf
+48915865,12-20AUG27,Boston Police,8/27/2012,DORCHESTER,NO,3:30 AM,6:00 AM,Apartment,YES,NO,NO,8/27/2012,6:40 AM,NO,12-120533751,YES,ATF,https://wokewindows-data.s3.amazonaws.com/swats/12-20AUG27.pdf
+48915845,14-08MAR12,Boston Police - SW,3/12/2014,DORCHESTER,YES,3:30 AM,5:00 AM,Triple Decker,YES,NO,YES,3/12/2014,5:15 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-08MAR12.pdf
+48915839,13-15MAY17,Boston Police,5/17/2013,Roxbury,NO,3:30 AM,5:20 AM,Row House,YES,NO,NO,5/17/2013,5:40 AM,NO,13-0258348,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-15MAY17.pdf
+48915830,13-30SEP13,Boston Police - SW,9/13/2013,DORCHESTER,YES,3:30 AM,4:50 AM,Apartment Complex,NO,NO,YES,9/13/2013,5:30 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-30SEP13.pdf
+48915831,13-13MAY03,Boston Police,5/3/2013,DORCHESTER,NO,6:20 PM,6:23 PM,Apartment,NO,NO,NO,5/3/2013,6:50 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-13MAY03.pdf
+48915856,13-16MAY31,Boston Police,5/13/2013,Roxbury,YES,3:30 AM,4:30 AM,Apartment,NO,NO,YES,5/31/2013,5:15 AM,NO,13-0326609,NO,Boston Police,https://wokewindows-data.s3.amazonaws.com/swats/13-16MAY31.pdf
+48915873,13-34NOV12,Boston Police - SW,11/12/2013,Brighton,YES,3:30 AM,5:00 AM,Apartment Complex,YES,NO,YES,11/12/2013,5:15 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-34NOV12.pdf
+48915863,07-0307042013,Boston Police - SW,7/3/2013,Boston,YES,12:00 PM,12:00 PM,Outside,NO,NO,NO,7/4/2013,12:00 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/07-0307042013.pdf
+48915832,14-20JULY02,Boston Police D-4,7/2/2014,South End,YES,3:45 PM,4:15 PM,Apartment Complex,YES,NO,NO,7/2/2014,9:00 PM,YES,14-2005278,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-20JULY02.pdf
+48915857,14-31DEC31,Boston Police ATF,12/31/2014,Roxbury,YES,3:30 AM,4:40 AM,Apartment,NO,NO,YES,12/31/2014,5:05 AM,NO,14-2061939,YES,ABINGTON P.D.,https://wokewindows-data.s3.amazonaws.com/swats/14-31DEC31.pdf
+48915876,13-17JUNE03,Boston Police,6/12/2013,Roxbury,NO,7:30 AM,11:00 AM,Athletic Complex,NO,NO,NO,6/12/2013,3:00 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-17JUNE03.pdf
+48915825,14-26NOV11,Boston Police,11/11/2014,Hyde Park,YES,3:30 AM,4:45 AM,Single Family Residence,YES,NO,YES,11/11/2014,5:00 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-26NOV11.pdf
+48915829,14-14MAY19,Boston Police - YV,5/19/2014,Mattapan,YES,3:30 AM,4:45 AM,Multiple family,YES,NO,YES,5/19/2014,5:00 AM,NO,"",NO,Boston Police - YVSF,https://wokewindows-data.s3.amazonaws.com/swats/14-14MAY19.pdf
+48915822,14-06MARCH05,USSS,3/5/2014,South Boston,YES,2:00 PM,2:00 PM,Office / Professional Building,NO,NO,NO,3/5/2014,9:00 PM,NO,"",YES,USSS,https://wokewindows-data.s3.amazonaws.com/swats/14-06MARCH05.pdf
+48915866,12-08APR18,Boston Police,4/18/2012,Mattapan,YES,3:30 AM,4:55 AM,Apartment,NO,NO,NO,4/18/2012,5:10 AM,NO,12-0228014,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/12-08APR18.pdf
+48915840,13-30SEP17,Boston Police D-14,9/17/13,Allston,YES,3:30 AM,5:07 AM,Apartment,NO,NO,YES,9/17/2013,5:35 AM,NO,13-0590591,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-30SEP17.pdf
+48915854,14-02JAN07,Boston Police - SW,1/7/2014,Mattapan,YES,3:30 AM,4:40 AM,Apartment,YES,NO,NO,1/7/2014,5:00 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-02JAN07.pdf
+48915879,13-36NOV20,Boston Police - E5,11/20/2013,Roslindale,YES,3:30 AM,"",Apartment,NO,NO,NO,11/20/2013,5:45 AM,NO,13-130735756,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-36NOV20.pdf
+48915880,12-13MAY25,Boston Police,5/25/2012,DORCHESTER,YES,3:30 AM,5:30 AM,Apartment,NO,NO,NO,5/25/2012,6:00 AM,NO,12-0313882,NO,Boston Police,https://wokewindows-data.s3.amazonaws.com/swats/12-13MAY25.pdf
+48915859,14-13MAY19,Boston Police - YV,5/19/14,DORCHESTER,YES,3:30 AM,4:55 AM,Apartment Complex,YES,NO,NO,5/19/2014,5:10 AM,NO,14-0310080,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-13MAY19.pdf
+48915849,14-29NOV21,Boston Police - SW,11/21/14,DORCHESTER,YES,3:30 AM,4:45 AM,Apartment,NO,NO,NO,11/21/2014,5:30 AM,YES,14-142050872,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-29NOV21.pdf
+48915820,13-01JAN10,Boston Police,1/10/2013,East Boston,YES,3:30 AM,4:45 AM,Row House,YES,NO,YES,1/10/2013,5:00 AM,NO,13-0019268,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-01JAN10.pdf
+48915836,13-38DEC12,Quincy Police Dept,12/12/2013,Quincy,NO,"","",Apartment,NO,NO,NO,12/12/2013,5:20 AM,NO,13-063546,YES,Quincy Police Dept.,https://wokewindows-data.s3.amazonaws.com/swats/13-38DEC12.pdf
+48915881,12-03FEB28,Boston Police,2/28/2012,Roxbury,YES,3:30 AM,4:55 AM,Row House,NO,NO,NO,2/28/2012,5:15 AM,NO,12-117278,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/12-03FEB28.pdf
+48915875,14-03JAN14,ATF,1/14/2014,DORCHESTER,YES,4:30 AM,6:01 AM,BHA Apartment Complex,NO,NO,YES,1/14/2014,6:20 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-03JAN14.pdf
+48915867,13-35NOV11,Boston Police - SW,11/15/2013,Mattapan,YES,4:00 AM,6:00 AM,Multiple family,YES,NO,NO,11/15/2013,6:25 AM,NO,"",YES,MSP,https://wokewindows-data.s3.amazonaws.com/swats/13-35NOV11.pdf
+48915828,14-21JULY10,Boston Police - SW,7/10/2014,Brighton,YES,12:00 PM,"",Apartment,NO,NO,NO,7/10/2014,2:00 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-21JULY10.pdf
+48915821,14-07MARCH07,Boston Police - SIU,3/7/2014,Roxbury,YES,3:30 AM,4:30 AM,Apartment,YES,YES,YES,3/7/2014,5:10 AM,NO,14-0139598,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-07MARCH07.pdf
+48915871,13-06JAN17,Boston Police,1/17/2020,Roxbury,YES,3:30 AM,"",Apartment,NO,NO,NO,1/17/2013,6:45 AM,NO,13-130034140,YES,FBI,https://wokewindows-data.s3.amazonaws.com/swats/13-06JAN17.pdf
+48915877,13-02JAN11,Boston Police,1/11/2013,Charlestown,YES,6:35 PM,6:50 PM,Apartment,NO,NO,NO,1/11/2013,9:09 PM,NO,13-0022886,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-02JAN11.pdf
+48915874,14-19JUNE13,Boston Police - SW,6/13/2014,DORCHESTER,YES,3:30 AM,4:15 AM,Single Family Residence,YES,NO,YES,6/13/2014,4:45 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-19JUNE13.pdf
+48915860,14-11APR22,Boston Police - YV,4/22/2014,Roxbury,YES,11:00 PM,11:05 PM,Apartment Complex,NO,NO,NO,4/23/2014,12:30 AM,NO,14-0245776,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-11APR22.pdf
+48915872,14-27NOV14,Boston Police - SW,11/14/2014,Brookline,NO,1:00 AM,1:45 AM,Apartment Complex,NO,NO,NO,11/14/2014,2:30 AM,NO,"",YES,Brookline PD,https://wokewindows-data.s3.amazonaws.com/swats/14-27NOV14.pdf
+48915827,14-04JAN29,BPD B2 DCU,1/29/2014,Roxbury,YES,3:30 AM,"",Multiple family,NO,NO,NO,1/29/2014,4:55 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-04JAN29.pdf
+48915826,13-18JUN16,Boston Police SAU,6/17/2013,Roxbury,NO,9:15 PM,"",Apartment,NO,NO,NO,6/16/2013,"",NO,13-0363471,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-18JUN16.pdf
+48915878,13-19JUNE18,Boston Police - B2,6/18/2013,Roxbury,YES,9:00 PM,9:10 PM,Apartment,NO,NO,YES,6/18/2013,11:50 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-19JUNE18.pdf
+48915834,13-33NOV04,Boston Police - SW,11/4/2013,DORCHESTER,YES,11:45 AM,11:55 AM,Apartment,NO,NO,NO,11/4/2013,4:00 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-33NOV04.pdf
+48915852,14-09MAR14,Quincy Police Dept,3/14/2014,Quincy,NO,3:30 AM,4:40 AM,Apartment Complex,NO,NO,NO,3/14/2014,5:00 AM,NO,"",YES,Quincy Police Dept.,https://wokewindows-data.s3.amazonaws.com/swats/14-09MAR14.pdf
+48915843,14-01JAN04,Boston Police - YV,1/4/2014,DORCHESTER,YES,3:45 PM,4:10 PM,Triple Decker,YES,NO,NO,1/4/2014,5:45 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-01JAN04.pdf
+48915848,13-14MAY17,Boston Police,5/17/13,Roxbury,YES,3:30 AM,4:55 AM,Row House,YES,NO,NO,5/17/2013,5:10 AM,NO,13-0259348,NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-14MAY17.pdf
+48915862,14-22AUG28,Boston Police - SW,8/28/2014,Hyde Park,YES,3:30 AM,4:30 AM,Apartment Complex,NO,NO,NO,8/28/2014,5:00 AM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/14-22AUG28.pdf
+48915861,13-09062013,Boston Police - SW,9/6/2013,"Everett, MA",NO,11:30 AM,12:30 PM,"",NO,NO,NO,9/6/2013,3:00 PM,NO,"",NO,"",https://wokewindows-data.s3.amazonaws.com/swats/13-09062013.pdf
