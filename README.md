@@ -14,7 +14,7 @@ This repository contains:
 2. code to parse the classification exports, correct conflicts, and produce final tables
 3. the final tables in [tables/](tables/)
 
-## Project: New School Report Metadata
+## Project: New School Report Metadata (COMPLETE)
 This is our first classification project, and is intended as a proof-of-concept (that will also produce some useful data!)
 
 This project is limited to "new school" SWAT reports. These are 64 reports from years 2012 - 2014 that appear to come from a newer database (older reports have a different layout). This first project only collects data from the first page of each report, which contains basic information regarding the date, location, etc.
@@ -24,9 +24,9 @@ Data entry of each SWAT report ("classification" in Zooniverse's parlance) was p
 The final tabluarized data is available here: **[tables/new_school_report_metadata.csv](tables/new_school_report_metadata.csv)**.
 
 ## Next Steps
-1. create workflows for data entry of additional fields from the "new school" reports: People Involved, Forced User By Police, etc.
+1. create workflows for data entry of additional fields from the "new school" reports: People Involved, Forced Used By Police, etc.
 2. add newer SWAT reports (2015 onwards) when those are released
-3. create workflows for data entry of reports from 2012 and before in "old school" format
+3. create workflows for data entry of "old school" reports from 2012 and before
 
 ## External Links
 - [zooniverse_upload_pdf.rb](https://github.com/nstory/wokewindows/blob/master/scripts/zooniverse_upload_pdf.rb)
